@@ -1,0 +1,811 @@
+Looking for git in: git
+Using git 2.23.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git show :index.html
+> git show :index.html
+> git show :index.html
+> git show :index.html
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git show :index.html
+> git show :main.css
+> git show :index.html
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git show :main.css
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :main.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/praga/Documents/projeto-curso-html5-css3-digital-innovation/projeto-curso-html5-css3-digital-innovation/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:594401)
+	at T.updateTransientWatchers (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:98291)
+	at l.fire (/snap/code/16/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:539)
+	at k.updateModelState (/snap/code/16/usr/share/code/resources/app/extensions/git/dist/main.js:1:115979)

@@ -1,0 +1,55 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background: #ffffff;
+}
+
+img {
+    width: 300px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.icone-whats {
+    width: 40px;
+}
+
+ul,
+li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    color: #40312F;
+    font-weight: bold;
+    font-size: 36px;
+    padding-top: 80px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+.alinhamento {
+    text-align: center;
+}
+
+#contato {
+    text-align: justify;
+}
+
+footer {
+    background: #88898C;
+    color: #ffffff;
+    width: 100%;
+    border-radius: 2px;
+    margin: 0;
+}
